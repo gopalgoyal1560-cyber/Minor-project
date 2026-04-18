@@ -1,5 +1,5 @@
 streamlit
-open cv
+opencv-python-headless
 requests
 io
 numpy
